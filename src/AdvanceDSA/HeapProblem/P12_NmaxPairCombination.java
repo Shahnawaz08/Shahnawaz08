@@ -108,7 +108,7 @@ public class P12_NmaxPairCombination {
             A[i]=sc.nextInt();
         }
         for(int i=0;i<N;i++){
-            B[i]=sc.nextInt();
+            gg
         }
         int [] maxarray=solve(A,B);
         System.out.println("Maximum sum array is "+ Arrays.toString(maxarray));
